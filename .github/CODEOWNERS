@@ -1,12 +1,11 @@
-# Cogs
-/redbot/cogs/audio/** @aikaterna @PredaaA
-/redbot/cogs/downloader/* @Jackenmen
-/redbot/cogs/streams/* @palmtree5
-/redbot/cogs/mutes/* @TrustyJAID
+ppbot/cogs/audio/** @aikaterna @PredaaA
+/ppbot/cogs/downloader/* @Jackenmen
+/ppbot/cogs/streams/* @palmtree5
+/ppbot/cogs/mutes/* @TrustyJAID
 
 # Docs - Install and update guides
 /docs/install_guides/** @Jackenmen
-/docs/update_red.rst @Jackenmen
+/docs/update_red.rst @pragntfatmen
 
 # Docs - Version guarantees
 /docs/version_guarantees.rst @Jackenmen

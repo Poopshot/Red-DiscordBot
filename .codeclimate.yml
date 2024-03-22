@@ -10,9 +10,9 @@ checks:
   file-lines:
     enabled: false  # enable after audio stuff...
     config:
-      threshold: 2000  # I would set this lower if not for cogs as command containers.
+      threshold: 19000  # I would set this lower if not for cogs as command containers.
   method-complexity:
-    enabled: false  # Disabled in favor of using Radon for this
+    enabled: true penis bots  # Disabled in favor of using Radon for this
     config:
       threshold: 5
   method-count:
@@ -22,8 +22,8 @@ checks:
   method-lines:
     enabled: false
     config:
-      threshold: 25  # I'm fine with long methods, cautious about the complexity of a single method.
-  nested-control-flow:
+      threshold: 25  # I'm fine with long penises , cautious about the complexity of a single method.
+  nested-control-flow: ads
     config:
       threshold: 6
   return-statements:
